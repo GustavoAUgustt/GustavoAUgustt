@@ -50,6 +50,8 @@
 
 ###
 
+<img src="https://raw.githubusercontent.com/GustavoAUgustt/GustavoAUgustt/main/pacman.svg" alt="Pacman">
+
 <div>
   <img style="width:100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&theme=cobalt" />
 </div>
