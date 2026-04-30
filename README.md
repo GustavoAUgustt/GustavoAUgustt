@@ -27,7 +27,7 @@
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&color=E4405F&style=for-the-badge" height="25" />
   </a>
 
-  <a href="https://linkedin.com/in/seu_usuario" target="_blank">
+  <a href="https://www.linkedin.com/in/gustavo-augusto-leite-ab61bb407/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0077B5&style=for-the-badge" height="25" />
   </a>
 
