@@ -16,7 +16,7 @@ jobs:
       - name: Generate Pacman Graph
         uses: Platane/snk@v3
         with:
-          github_user_name: GustavoAUgust
+          github_user_name: GustavoAUgustt
         
           outputs: |
             dist/pacman-contribution-graph.svg
