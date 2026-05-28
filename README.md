@@ -50,6 +50,40 @@
 
 ###
 
+
+<!-- REPOS:START -->
+## 📚 Meus Repositórios
+
+### [Sites-de-Filmes-simples](https://github.com/GustavoAUgustt/Sites-de-Filmes-simples)
+**Descrição:** Sem descrição
+**Linguagem:** HTML | ⭐ 0
+
+### [Navegacao-Robotica](https://github.com/GustavoAUgustt/Navegacao-Robotica)
+**Descrição:** Sem descrição
+**Linguagem:** C | ⭐ 0
+
+### [Estrutura-Arvores-bin-ria](https://github.com/GustavoAUgustt/Estrutura-Arvores-bin-ria)
+**Descrição:** desenvolvendo uma estrutura de árvores binárias
+**Linguagem:** C | ⭐ 0
+
+### [Fila-em-C](https://github.com/GustavoAUgustt/Fila-em-C)
+**Descrição:** codigo para fila em C
+**Linguagem:** C | ⭐ 0
+
+### [pacman-contribution-graph](https://github.com/GustavoAUgustt/pacman-contribution-graph)
+**Descrição:** 🟡👻 Turn your GitHub contribution graph into a Pac-Man SVG animation! Easy to integrate into your profile with GitHub Actions 🚀.
+**Linguagem:** Sem linguagem | ⭐ 0
+
+### [30-dias-de-C](https://github.com/GustavoAUgustt/30-dias-de-C)
+**Descrição:** esse código é apenas um código básico na programação , como imprimir na tela do terminal do CMD por exemplo do SO Windows
+**Linguagem:** C | ⭐ 1
+
+### [quickdraw-badge](https://github.com/GustavoAUgustt/quickdraw-badge)
+**Descrição:** Sem descrição
+**Linguagem:** Sem linguagem | ⭐ 1
+
+<!-- REPOS:END -->
+
 <img src="https://raw.githubusercontent.com/GustavoAUgustt/GustavoAUgustt/main/pacman.svg" alt="Pacman">
 
 <div>
