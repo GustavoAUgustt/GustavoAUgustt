@@ -50,6 +50,16 @@
 
 ###
 
+<h2 align="left">📊 Minhas Estatísticas GitHub</h2>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=GustavoAUgustt&show_icons=true&theme=cobalt&hide_border=true" alt="GitHub Stats" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=GustavoAUgustt&layout=compact&theme=cobalt&hide_border=true" alt="Top Languages" />
+</div>
+
+###
+
 <img src="https://raw.githubusercontent.com/GustavoAUgustt/GustavoAUgustt/main/pacman.svg" alt="Pacman">
 
 <div>
