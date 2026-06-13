@@ -49,11 +49,12 @@
 </p>
 
 ###
+***
 
 <p align="left">
 🚀 Aprendendo sobre metodologias<br>
-Lean Inception<br>
-Scrum<br>
+ • Lean Inception<br>
+ • Scrum<br>
 </p>
 
 ###
