@@ -50,6 +50,13 @@
 
 ###
 
+<p align="left">
+🚀 Aprendendo sobre metodologias<br>
+Lean Inception<br>
+Scrum<br>
+</p>
+
+###
 
 <img src="https://raw.githubusercontent.com/GustavoAUgustt/GustavoAUgustt/main/pacman.svg" alt="Pacman">
 
